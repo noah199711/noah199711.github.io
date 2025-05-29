@@ -10,20 +10,22 @@ layout: default
 
 # About Me
 
-Welcome to my homepage! I am pursuing the doctoral degree in Computer Science and Technology under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN) at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
+Welcome to my homepage! I am coming to the Associate Professor in the School of Electronic Information at Northwestern Polytechnical University. 
+
+In 2021.09-2025.06, I got the doctoral degree in Computer Science and Technology under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN) at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 In 2021.03-2021.08, I joined the [Foresight Research Laboratory](https://www.ict.ac.cn/jssgk/zzjg/kyxt/qzyjsys/js/) at the Chinese Academy of Sciences as a research intern graduate student under the supervision of [Dr. Guojing Tian](https://www.ict.ac.cn/sourcedb/cn/jssrck/202010/t20201023_5721551.html), focusing on belief functions and quantum computing.
 
 In 2022.11-2023.10, I joined the [Witold Pedrycz](https://apps.ualberta.ca/directory/person/wpedrycz)'s Lab at the [University of Alberta](https://www.ualberta.ca/en/index.html) as a visiting student, focusing on belief functions and granular computing.
 
-Privously, I received my bachelor's degree from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
+Privously, I got the bachelor's degree from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 In my spare time, I have a strong interest in **tennis** and **fitness**. In e-sports, my unique heroes are Rek'sai in _League of Legends_ and Athena in _Honor of Kings_.
 
 
 # Research Interests
 
-My research interests span the interdisciplinary domains of **belief functions**, **granular computing**, **quantum computing**, **fractals and chaos**. The specific topics are introduced below. 
+My research interests span the interdisciplinary domains of **information fusion**, **granular computing**, **quantum computing**, **uncertainty management**. The specific topics are introduced below. 
 
 <span style="color:pink;">1. Bridges on belief function, possibility and probability
 
@@ -55,13 +57,17 @@ I am looking for colleagues who are interested in the above topics to collaborat
 
 # Awards and Achievements
 
+\[**2025**] Tennis NWU Open Singles Champion.
+
+\[**2025**\] The CSU Youth Support Project for Doctoral Candidates.
+
 \[**2024**\] Tennis123 Chengdu 4.0+ Singles Runner-up.
 
 \[**2024**\] Tennis123 Chengdu 3.0 Singles Champion.
 
 \[**2024**\] The 90th Athena of Shandong.
 
-\[**2020, 2022, 2023**\] National Scholarship for Graduate Students.
+\[**2020, 2022, 2023, 2024**\] National Scholarship for Graduate Students.
 
 \[**2022**\] Academic Rookie of University of Electronic Science and Technology of China.
 
@@ -80,20 +86,27 @@ I am looking for colleagues who are interested in the above topics to collaborat
 
 ### Unpublished
 
-**Qianli Zhou**, H. Luo, L. Pan, Y. Deng\*, and É. Bossé, *"Transferable Belief Model on Quantum Circuits,"* IEEE Transactions on Artificial Intelligence, Under Review.  \[[ArXiv](https://arxiv.org/pdf/2410.08949)\]
+**Qianli Zhou**, H. Luo, L. Pan, Y. Deng\*, and É. Bossé, *"Transferable Belief Model on Quantum Circuits,"*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Under Review.  \[[ArXiv](https://arxiv.org/pdf/2410.08949)\]
 
-**Qianli Zhou**, T. Zhan, and Y. Deng\*, *"Isopignistic Canonical Decomposition via Belief Evolution Network,"*2025 AAAI, Under Review.  \[[ArXiv](https://arxiv.org/pdf/2405.02653)\]
+**Qianli Zhou**, T. Zhan, and Y. Deng\*, *"Isopignistic Canonical Decomposition via Belief Evolution Network,"*IEEE Transactions on Artificial Intelligence, Under Review.  \[[ArXiv](https://arxiv.org/pdf/2405.02653)\]
 
 H. Luo, **Qianli Zhou\***, L. Pan, Z, Li and Y. Deng\*, *"Attribute Fusion-based Evidential Classifier on Quantum Circuits,"* IEEE Transactions on Pattern Analysis and Machine Intelligence, Under Review.  \[[ArXiv](https://arxiv.org/pdf/2401.01392)\]
 
 ### Journal articles
 
+**2025**
 
-**2024**
+**Qianli Zhou**, and Y. Deng\*, *"Layer-2 transferable belief model: Manage uncertainty on random permutation sets,"* Journal of Electronic Science and Technology, Publishing. \[[DOI](https://doi.org/10.1016/j.jnlest.2025.100304)\]
+
+ <span style="color:gray;">**TL;DR:** We provide a comprehensive approach for handling and modeling uncertainty, capable of representing both quantitative and qualitative information. The advantages of this model are validated through a classifier that leverages attribute fusion to enhance performance and decision-making accuracy
 
 **Qianli Zhou**, W. Pedrycz, and Y. Deng\*, *"Order-2 Probabilistic Information Fusion on Random Permutation Set,"* IEEE Transactions on Knowledge and Data Engineering, Online Published. \[[DOI](https://doi.org/10.1109/TKDE.2024.3484009)\], <a href="support.pdf" download>Supplementary File</a>
 
 <span style="color:gray;">**TL;DR:** We develop an updating method for order-2 probabilistic information and use it to model information fusion of random permutation sets under a random finite set interpretation.
+
+**2024**
+
+
 
 L. Li, **Qianli Zhou\***, Y. Deng\*, and É. Bossé, *"Towards an efficient implementation of Dempster–Shafer: alpha-junction fusion rules on quantum circuits,"* Quantum Information Processing, Publishing. \[[DOI](https://doi.org/10.1007/s11128-024-04581-w)\]
 
