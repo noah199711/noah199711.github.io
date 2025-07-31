@@ -10,7 +10,7 @@ layout: default
 
 # About Me
 
-Welcome to my homepage! I am coming to the Associate Professor in the School of Electronic Information at Northwestern Polytechnical University. 
+Welcome to my homepage! I am an Associate Professor in the School of Electronic Information at Northwestern Polytechnical University. 
 
 In 2021.09-2025.06, I got the doctoral degree in Computer Science and Technology under the supervision of [Prof. Yong Deng](https://scholar.google.com/citations?user=Zuhod6sAAAAJ&hl=zh-CN) at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
