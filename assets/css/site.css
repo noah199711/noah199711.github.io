@@ -358,7 +358,7 @@ h3 {
   border-bottom: 1px solid var(--line);
 }
 
-.timeline-row time {
+.timeline-date {
   color: var(--muted);
   font-size: 0.94rem;
   white-space: nowrap;
