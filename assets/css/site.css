@@ -28,7 +28,7 @@ body {
 }
 
 .numeral {
-  font-size: 1.12em;
+  font-size: 1.25em !important;
   font-variant-numeric: lining-nums tabular-nums;
   line-height: 1;
 }
